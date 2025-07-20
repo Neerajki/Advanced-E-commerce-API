@@ -1,0 +1,28 @@
+# .env file
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Static files collected by collectstatic
+static/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django migrations
+migrations/
+
+# Database
+*.postgresql
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
